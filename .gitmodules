@@ -1,0 +1,3 @@
+[submodule "teak-docs-common"]
+	path = teak-docs-common
+	url = https://github.com/gocarrot/teak-docs-common
