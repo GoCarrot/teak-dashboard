@@ -1,0 +1,5 @@
+formats: []
+requirements_file: requirements.txt
+submodules:
+  include:
+    - teak-docs-common/
