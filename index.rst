@@ -5,7 +5,23 @@
 
 .. include:: global.rst
 
-Teak Dashboard
+Teak Documentation
 ==============
 
+Hi, we're a small team, so the documentation that exists was generated based on the needs of customers. It's currently very sparse.
+
+So, if anything is holding you up, contact us!
+
+
+.. include:: teak-docs-common/sidebar-top.rst
+
+.. toctree::
+    :caption: General
+    :maxdepth: 2
+
+    firebase-gcm
+    apple-apns
+    ios-12-notifications
+
 .. include:: teak-docs-common/sidebar.rst
+
