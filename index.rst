@@ -20,6 +20,7 @@ So, if anything is holding you up, contact us!
     :maxdepth: 2
 
     firebase-gcm
+    firebase-app-id
     apple-apns
     ios-12-notifications
 
